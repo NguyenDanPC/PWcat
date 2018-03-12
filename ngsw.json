@@ -1,19 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://nguyendanpc.github.io/PWcat/index.html",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://nguyendanpc.github.io/PWcat/favicon.ico",
-        "https://nguyendanpc.github.io/PWcat/index.html",
-        "https://nguyendanpc.github.io/PWcat/manifest.json",
-        "https://nguyendanpc.github.io/PWcat/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://nguyendanpc.github.io/PWcat/main.0e4b518c59ec15b874a5.bundle.js",
-        "https://nguyendanpc.github.io/PWcat/polyfills.bf95165a1d5098766b92.bundle.js",
-        "https://nguyendanpc.github.io/PWcat/styles.1737b698fa048e5a82cc.bundle.css"
+        "/favicon.ico",
+        "/index.html",
+        "/inline.318b50c57b4eba3d437b.bundle.js",
+        "/main.0e4b518c59ec15b874a5.bundle.js",
+        "/polyfills.bf95165a1d5098766b92.bundle.js",
+        "/styles.1737b698fa048e5a82cc.bundle.css"
       ],
       "patterns": []
     },
@@ -22,26 +21,25 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://nguyendanpc.github.io/PWcat/assets/icon-128x128.png",
-        "https://nguyendanpc.github.io/PWcat/assets/icon-152x152.png",
-        "https://nguyendanpc.github.io/PWcat/assets/icon-256x256.png",
-        "https://nguyendanpc.github.io/PWcat/assets/icon-512x512.png"
+        "/assets/icon-128x128.png",
+        "/assets/icon-152x152.png",
+        "/assets/icon-256x256.png",
+        "/assets/icon-512x512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://nguyendanpc.github.io/PWcat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://nguyendanpc.github.io/PWcat/assets/icon-128x128.png": "4d96e85f0f3b87cfdeb340f589f4aab07a89d29a",
-    "https://nguyendanpc.github.io/PWcat/main.0e4b518c59ec15b874a5.bundle.js": "7149358efb380a0aab34dd37bdffcd81816e4302",
-    "https://nguyendanpc.github.io/PWcat/assets/icon-152x152.png": "68237994a83c965f4298dd2f3aacdf1f27d3342e",
-    "https://nguyendanpc.github.io/PWcat/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
-    "https://nguyendanpc.github.io/PWcat/assets/icon-256x256.png": "01824f41f9a9bfed7deff7901534f9812b4bac95",
-    "https://nguyendanpc.github.io/PWcat/styles.1737b698fa048e5a82cc.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
-    "https://nguyendanpc.github.io/PWcat/assets/icon-512x512.png": "02a93b4eae1b7d0d5b17c18ed0921429d3356ad0",
-    "https://nguyendanpc.github.io/PWcat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://nguyendanpc.github.io/PWcat/index.html": "2f95c06985a0e0c55688e08a9b1059f3c99a7ca9",
-    "https://nguyendanpc.github.io/PWcat/manifest.json": "1a102d2c16e0e4566c168dd19f9de3806de62af4"
+    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/assets/icon-128x128.png": "4d96e85f0f3b87cfdeb340f589f4aab07a89d29a",
+    "/main.0e4b518c59ec15b874a5.bundle.js": "7149358efb380a0aab34dd37bdffcd81816e4302",
+    "/assets/icon-152x152.png": "68237994a83c965f4298dd2f3aacdf1f27d3342e",
+    "/polyfills.bf95165a1d5098766b92.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/assets/icon-256x256.png": "01824f41f9a9bfed7deff7901534f9812b4bac95",
+    "/styles.1737b698fa048e5a82cc.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
+    "/assets/icon-512x512.png": "02a93b4eae1b7d0d5b17c18ed0921429d3356ad0",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "ad98d568b355544826909171713eef5b0e72dda1"
   }
 }
