@@ -29,7 +29,18 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api-performance",
+      "patterns": [
+        "\\/PWcat"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "https://nguyendanpc.github.io/PWcat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "https://nguyendanpc.github.io/PWcat/assets/icon-128x128.png": "4d96e85f0f3b87cfdeb340f589f4aab07a89d29a",
